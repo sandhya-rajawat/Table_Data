@@ -1,0 +1,10 @@
+  // <center>
+  // <table border='1' id='table'>
+  // <tr id='tr'> 
+  // <td id='td'>". $GetObj['id']." </td>
+  // <td id='tdname'>". $GetObj['name'] ."</td>
+  //  <td id='idcity'>".  $GetObj['city']  ."</td>
+  //  <td id='idpassword'> ". $GetObj['password'] ." </td>
+  //  </tr>
+  // </table> 
+  // </center>";

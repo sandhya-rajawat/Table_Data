@@ -1,0 +1,54 @@
+table {
+  font-family: arial, sans-serif;
+   width: 50%;
+  margin-left: 25%;
+  background-color: rgb(218, 159, 82)  ;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
+  cursor: pointer;
+ 
+}
+
+td, th {
+  border: 1px solid #fffafa;
+  padding: 8px;
+
+}
+
+tr:nth-child(4) {
+  background-color:rgb(148, 118, 118);
+}
+body{
+  background-color: rgb(247, 237, 218);
+}
+#id{
+  width: 20px;
+
+}
+#name{
+  width: 50px;
+}
+#city{
+  width:40px;
+
+}
+#password{
+  width: 60px;;
+}
+#table{
+  margin-right: 45%;
+}
+#tr{
+
+  background-color: rgb(233, 208, 182);
+}
+#td{
+  width: 82px;
+}
+#tdname{
+  width: 25%;
+}
+
+
+#idpassword{
+  width: 40%;
+} 
